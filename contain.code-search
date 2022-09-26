@@ -1,0 +1,287 @@
+# Query: contain
+# ContextLines: 1
+
+91 results - 20 files
+
+day10\absoluteposition2.html:
+   9      <style>
+  10:         .container {
+  11              width: 600px;
+
+  18  
+  19:         .container img {
+  20              height: 100%;
+
+  46  <body>
+  47:     <div class="container">
+  48          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Shaqi_jrvej.jpg/1200px-Shaqi_jrvej.jpg"
+
+day10\transformscale.html:
+  11          }
+  12:         .container-1{
+  13              height: 300px;
+
+  20  
+  21:         .container-1 img{
+  22              height: 100%;
+
+  26  
+  27:         .container-1 img:hover{
+  28              transform: scale(1.5);
+
+  31  
+  32:         .container-2{
+  33              height: 300px;
+
+  40  
+  41:         .container-2 img{
+  42              height: 100%;
+
+  46  
+  47:         .container-2 img:hover{
+  48              transform: scale(0.5);
+
+  56  
+  57:     <div class="container-1">
+  58          <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/24701-nature-natural-beauty.jpg" alt="">
+
+  60  
+  61:     <div class="container-2">
+  62          <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/24701-nature-natural-beauty.jpg" alt="">
+
+day11\work.html:
+   54  
+   55:         .main-content {
+   56              height: 60%;
+
+   60  
+   61:         .main-content h6 {
+   62              margin: 0;
+
+  109          </div>
+  110:         <div class="main-content">
+  111              <h3>Cyber Security course</h3>
+
+day14\backgroundimage.html:
+  13          }
+  14:         .container{
+  15              height: 80vh;
+
+  27  <body>
+  28:     <div class="container"></div>
+  29  </body>
+
+day14\filter.html:
+   5      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   6:     <meta name="viewport" content="width=.container, initial-scale=1.0">
+   7      <title>Document</title>
+   8      <style>
+   9:         .container{
+  10              padding: auto;
+
+  13          }
+  14:         .container img{
+  15              height: 100%;
+
+  27  
+  28:         .container:hover img{
+  29              filter: none;
+
+  34  <body>
+  35:     <div class="container">
+  36          <img src="1.jpg" alt="">
+
+day16\flexbox.html:
+  14  
+  15:         .container{
+  16              background-color: rgb(65, 183, 220);
+
+  31  
+  32:         .container-item{
+  33              margin: 5px 0;
+
+  46  <body>
+  47:     Justify-contain works in main axis/ horizontl axis ie x-axis
+  48:     <div class="container">
+  49:         <div class="container-item"></div>
+  50:         <div class="container-item demo-item"></div>
+  51:         <div class="container-item"></div>
+  52      </div>
+
+day18\aligncontent.css:
+   6  
+   7: .container {
+   8      height: 800px;
+
+  16  
+  17: .container .content {
+  18      height: 300px;
+
+  23  
+  24: .container span{
+  25      display: block;
+
+day18\aligncontent.html:
+  14  <body>
+  15:     <pre>Align contain works o y-axis</pre>
+  16:     <div class="container">
+  17          <div class="content">
+
+day4\day4.css:
+  19  
+  20: .nav-content{
+  21      display: flex;
+
+  23  
+  24: .nav-content a{
+  25      color: aqua;
+
+day4\day4.html:
+  17          </div>
+  18:         <div class="nav-content">
+  19              <a href="#home">Home</a>
+
+Day8\box.html:
+   9      <style>
+  10:         .demo-container {
+  11              height: 300px;
+
+  21  <body>
+  22:     <div class="demo-container"></div>
+  23  </body>
+
+day9\padding.html:
+  11          }
+  12:         .demo-container{
+  13              width: 400px;
+
+  23  
+  24:         .demo-container:hover{
+  25              transform: translateX(30px);
+
+  29  <body>
+  30:     <pre>Padding is space between border and its content</pre>
+  31:     <div class="demo-container">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum quisquam reprehenderit fugit, vero nostrum accusamus numquam sunt rem ipsa quia iste delectus obcaecati dolores corporis magni, nemo, id explicabo aliquid corrupti? Deleniti quod animi recusandae doloremque optio non molestiae et repudiandae expedita! At in ex a perspiciatis! Dolore hic cumque debitis dolorem alias rem magnam est, a quasi eum nisi enim labore illum iusto! Quia quod cupiditate praesentium quisquam expedita, voluptatum tempora molestiae distinctio pariatur impedit odit rem ipsa nihil hic in iste amet consequatur, eos doloremque labore non culpa excepturi ipsam? Cumque, dignissimos doloribus doloremque corrupti modi suscipit ratione porro odit id fugiat dicta, aut, optio alias quas odio ea quidem facilis asperiores deserunt illo veniam quaerat perspiciatis excepturi?</div>
+  32  </body>
+
+project\firstProject.css:
+   58  
+   59: .landing-content {
+   60    width: 60%;
+
+   65  
+   66: .landing-content h4 {
+   67    font-size: 28px;
+
+   72  
+   73: .landing-contain h1 {
+   74    margin: 11px 0 14px;
+
+   79  
+   80: .landing-content p {
+   81    color: #dadada;
+
+  162  
+  163: .about-content {
+  164    width: 40%;
+
+project\firstProject.html:
+  32      <section id="home">
+  33:       <div class="landing-content">
+  34          <h4>Global Warming</h4>
+
+  63          </div>
+  64:         <div class="about-content">
+  65            <h6>About Us</h6>
+
+project\fontawesome-free-6.2.0-web\LICENSE.txt:
+   81  redistributed and/or sold with any software, provided that each copy
+   82: contains the above copyright notice and this license. These can be
+   83  included either as stand-alone text files, human-readable headers or
+
+  149  Attribution is required by MIT, SIL OFL, and CC BY licenses. Downloaded Font
+  150: Awesome Free files already contain embedded comments with sufficient
+  151  attribution, so you shouldn't need to do anything additional when using these
+
+project\fontawesome-free-6.2.0-web\js\all.js:
+  3388      var transform = _ref.transform,
+  3389:         containerWidth = _ref.containerWidth,
+  3390          iconWidth = _ref.iconWidth;
+  3391      var outer = {
+  3392:       transform: "translate(".concat(containerWidth / 2, " 256)")
+  3393      };
+
+  4249          if (!IS_DOM) return;
+  4250:         var container = DOCUMENT.createElement('div');
+  4251:         container.innerHTML = val.html;
+  4252:         return container.children;
+  4253        }
+
+  4619    function hasBeenReplaced(node) {
+  4620:     return node && node.classList && node.classList.contains && node.classList.contains(config.replacementClass);
+  4621    }
+
+  5225              transform: transform,
+  5226:             containerWidth: main.width,
+  5227              iconWidth: main.width
+
+  5655              transform = _ref.transform,
+  5656:             containerWidth = _ref.containerWidth,
+  5657              iconWidth = _ref.iconWidth;
+  5658          var outer = {
+  5659:           transform: "translate(".concat(containerWidth / 2, " 256)")
+  5660          };
+
+  5749            transform: transform,
+  5750:           containerWidth: maskWidth,
+  5751            iconWidth: mainWidth
+
+project\fontawesome-free-6.2.0-web\js\all.min.js:
+  5   */
+  6: ⟪ 1511109 characters skipped ⟫e(w):null,l=l.getAttribute?l.getAttribute(k):null,z&&l)?(l=(s=D1(z1(c.target))).prefix,s=s.iconName,c.target.setAttribute(w,l||a),s&&c.target.setAttribute(k,s)):(s=c.target)&&s.classList&&s.classList.contains&&s.classList.contains(G.replacementClass)&&C(c.target))}))}),L&&L2.observe(c,{childList:!0,attributes:!0,characterData:!0,subtree:!0}))}function d2(c){var s=c.getAttribute("data-prefix"),l=c.getAttribute("data-icon"),z=void 0!==c.innerText?c.innerText.trim():"",a=D1(z1(c));return a.prefix||(a.prefix=S1),s&&l&&(a.prefix=s,a.iconName=l),a.iconName&&a.prefix||(a.prefix&&0<z.length&&(a.iconName=(l=a.prefix,z=c.innerText,(w1[l]||{})[z]||j1(a.prefix,L1(c.innerText)))),!a.iconName&&G.autoFetchSvg&&c.firstChild&&c.firstChild.nodeType===Node.TEXT_NODE&&(a.iconName=c.firstChild.data)),a}function p2(c,s){var l=1<arguments.length&&void 0!==s?s:{styleParser:!0},z=d2(c),a=z.iconName,e=z.prefix,C=z.rest,H=(s=l1((H=c).attributes).reduce(function(c,s){return"class"!==c.name&&"style"!==c.name&&(c[s.name]=s.value),c},{}),z=H.getAttribute("title"),H=H.getAttribute("data-fa-title-id"),G.autoA11y&&(z?s["aria-labelledby"]="".concat(G.replacementClass,"-title-").concat(H||s1()):(s["aria-hidden"]="true",s.focusable="false"⟪ 3707 characters skipped ⟫ateAbstractIcon=function(c){var s,l=c.children,z=c.attributes,a=c.main,e=c.transform,c=e1(c.styles);return 0<c.length&&(z.style=c),C1(e)&&(s=U1("generateAbstractTransformGrouping",{main:a,transform:e,containerWidth:a.width,iconWidth:a.width})),l.push(s||a.icon),{children:l,attributes:z}}}},s={mixout:function(){return{layer:function(c){var l=1<arguments.length&&void 0!==arguments[1]?arguments[1]:{},s=l.classes,z=void 0===s?[]:s;return K1({type:"layer"},function(){W1("beforeDOMElementCreation",{assembler:c,params:l});var s=[];return c(function(c){Array.isArray(c)?c.map(function(c){s=s.concat(c.abstract)}):s=s.concat(c.abstract)}),[{tag:"span",attributes:{class:["".concat(G.cssPrefix,"-layers")].concat(r(z)).join(" ")},children:s}]})}}}},M={mixout:function(){return{counter:function(a){var e=1<arguments.length&&void 0!==arguments[1]?arguments[1]:{},c=e.title,C=void 0===c?null:c,c=e.classes,H=void 0===c?[]:c,c=e.attributes,t=void 0===c?{}:c,c=e.styles,V=void 0===c?{}:c;return K1({type:"counter",content:a},function(){return W1("beforeDOMElementCreation",{content:a,params:e}),c={content:a.toString(),title:C,extra:{attributes:t,styles:V,classes:["".concat(G.cssPrefix,"-layers-counter")].co⟪ 4680 characters skipped ⟫deAttributes:function(c,s){s=s.getAttribute("data-fa-transform");return s&&(c.transform=P2(s)),c}}},provides:function(c){c.generateAbstractTransformGrouping=function(c){var s=c.main,l=c.transform,z=c.containerWidth,a=c.iconWidth,e={transform:"translate(".concat(z/2," 256)")},c="translate(".concat(32*l.x,", ").concat(32*l.y,") "),z="scale(".concat(l.size/16*(l.flipX?-1:1),", ").concat(l.size/16*(l.flipY?-1:1),") "),l="rotate(".concat(l.rotate," 0 0)"),a={outer:e,inner:{transform:"".concat(c," ").concat(z," ").concat(l)},path:{transform:"translate(".concat(a/2*-1," -256)")}};return{tag:"g",attributes:u({},a.outer),children:[{tag:"g",attributes:u({},a.inner),children:[{tag:s.icon.tag,children:s.icon.children,attributes:u(u({},s.icon.attributes),a.path)}]}]}}}},{hooks:function(){return{parseNodeAttributes:function(c,s){var l=s.getAttribute("data-fa-mask"),l=l?D1(l.split(" ").map(function(c){return c.trim()})):E1();return l.prefix||(l.prefix=S1),c.mask=l,c.maskId=s.getAttribute("data-fa-mask-id"),c}}},provides:function(c){c.generateAbstractMask=function(c){var s=c.children,l=c.attributes,z=c.main,a=c.mask,e=c.maskId,C=c.transform,H=z.width,t=z.icon,V=a.width,c=a.icon,C=(a=(z={transform:C,containerWidth:V,iconWidth:H}).transform,C=z.containerWidth,V=z.iconWidth,H={transform:"translate(".concat(C/2," 256)")},z="translate(".concat(32*a.x,", ").concat(32*a.y,") "),C="scale(".concat(a.size/16*(a.flipX?-1:1),", ").concat(a.size/16*(a.flipY?-1:1),") "),a="rotate(".concat(a.rotate," 0 0)"),{outer:H,inner:{transform:"".concat(z," ").concat(C," ").concat(a)},path:{transform:"translate(".concat(V/2*-1," -256)")}}),a={tag:"rect",attributes:u(u({},E2),{},{fill:"white"})},V=t.children?{children:t.children.map(I2)}:{},V={tag:"g",attributes:u({},C.inner),children:[I2(u({tag:t.tag,attributes:u(u({},t.attributes),C.path)},V))]},C={tag:"g",attributes:u({},C.outer),children:[V]},V="mask-".concat(e||s1()),e="clip-".concat(e||s1()),C={tag:"mask",attributes:u(u({},E2),{},{id:V,maskUnits:"userSpaceOnUse",maskContentUnits:"userSpaceOnUse"}),children:[a,C]},C={tag:"defs",children:[{tag:"clipPath",attributes:{id:e},children:"g"===(c=c).tag?c.children:[c]},C]};return s.push(C,{tag:"rect",attributes:u({fill:"currentColor","clip-path":"url(#"
+
+project\fontawesome-free-6.2.0-web\js\fontawesome.js:
+   571      var transform = _ref.transform,
+   572:         containerWidth = _ref.containerWidth,
+   573          iconWidth = _ref.iconWidth;
+   574      var outer = {
+   575:       transform: "translate(".concat(containerWidth / 2, " 256)")
+   576      };
+
+  1432          if (!IS_DOM) return;
+  1433:         var container = DOCUMENT.createElement('div');
+  1434:         container.innerHTML = val.html;
+  1435:         return container.children;
+  1436        }
+
+  1802    function hasBeenReplaced(node) {
+  1803:     return node && node.classList && node.classList.contains && node.classList.contains(config.replacementClass);
+  1804    }
+
+  2408              transform: transform,
+  2409:             containerWidth: main.width,
+  2410              iconWidth: main.width
+
+  2838              transform = _ref.transform,
+  2839:             containerWidth = _ref.containerWidth,
+  2840              iconWidth = _ref.iconWidth;
+  2841          var outer = {
+  2842:           transform: "translate(".concat(containerWidth / 2, " 256)")
+  2843          };
+
+  2932            transform: transform,
+  2933:           containerWidth: maskWidth,
+  2934            iconWidth: mainWidth
+
+project\fontawesome-free-6.2.0-web\js\fontawesome.min.js:
+  5   */
+  6: ⟪ 39216 characters skipped ⟫e(C):null,e=e.getAttribute?e.getAttribute(S):null,n&&e)?(e=(a=Ht(nt(t.target))).prefix,a=a.iconName,t.target.setAttribute(C,e||i),a&&t.target.setAttribute(S,a)):(a=t.target)&&a.classList&&a.classList.contains&&a.classList.contains(J.replacementClass)&&o(t.target))}))}),y&&ya.observe(t,{childList:!0,attributes:!0,characterData:!0,subtree:!0}))}function wa(t){var a=t.getAttribute("data-prefix"),e=t.getAttribute("data-icon"),n=void 0!==t.innerText?t.innerText.trim():"",i=Ht(nt(t));return i.prefix||(i.prefix=Nt),a&&e&&(i.prefix=a,i.iconName=e),i.iconName&&i.prefix||(i.prefix&&0<n.length&&(i.iconName=(e=i.prefix,n=t.innerText,(Ct[e]||{})[n]||Lt(i.prefix,yt(t.innerText)))),!i.iconName&&J.autoFetchSvg&&t.firstChild&&t.firstChild.nodeType===Node.TEXT_NODE&&(i.iconName=t.firstChild.data)),i}function xa(t,a){var e=1<arguments.length&&void 0!==a?a:{styleParser:!0},n=wa(t),i=n.iconName,r=n.prefix,o=n.rest,s=(a=et((s=t).attributes).reduce(function(t,a){return"class"!==t.name&&"style"!==t.name&&(t[a.name]=a.value),t},{}),n=s.getAttribute("title"),s=s.getAttribute("data-fa-title-id"),J.autoA11y&&(n?a["aria-labelledby"]="".concat(J.replacementClass,"-title-").concat(s||at()):(a["aria-hidden"]="true",a.focusable="false"⟪ 3707 characters skipped ⟫ateAbstractIcon=function(t){var a,e=t.children,n=t.attributes,i=t.main,r=t.transform,t=rt(t.styles);return 0<t.length&&(n.style=t),ot(r)&&(a=qt("generateAbstractTransformGrouping",{main:i,transform:r,containerWidth:i.width,iconWidth:i.width})),e.push(a||i.icon),{children:e,attributes:n}}}},a={mixout:function(){return{layer:function(t){var e=1<arguments.length&&void 0!==arguments[1]?arguments[1]:{},a=e.classes,n=void 0===a?[]:a;return Qt({type:"layer"},function(){Bt("beforeDOMElementCreation",{assembler:t,params:e});var a=[];return t(function(t){Array.isArray(t)?t.map(function(t){a=a.concat(t.abstract)}):a=a.concat(t.abstract)}),[{tag:"span",attributes:{class:["".concat(J.cssPrefix,"-layers")].concat(l(n)).join(" ")},children:a}]})}}}},u={mixout:function(){return{counter:function(i){var r=1<arguments.length&&void 0!==arguments[1]?arguments[1]:{},t=r.title,o=void 0===t?null:t,t=r.classes,s=void 0===t?[]:t,t=r.attributes,c=void 0===t?{}:t,t=r.styles,f=void 0===t?{}:t;return Qt({type:"counter",content:i},function(){return Bt("beforeDOMElementCreation",{content:i,params:r}),t={content:i.toString(),title:o,extra:{attributes:c,styles:f,classes:["".concat(J.cssPrefix,"-layers-counter")].co⟪ 4680 characters skipped ⟫deAttributes:function(t,a){a=a.getAttribute("data-fa-transform");return a&&(t.transform=Ya(a)),t}}},provides:function(t){t.generateAbstractTransformGrouping=function(t){var a=t.main,e=t.transform,n=t.containerWidth,i=t.iconWidth,r={transform:"translate(".concat(n/2," 256)")},t="translate(".concat(32*e.x,", ").concat(32*e.y,") "),n="scale(".concat(e.size/16*(e.flipX?-1:1),", ").concat(e.size/16*(e.flipY?-1:1),") "),e="rotate(".concat(e.rotate," 0 0)"),i={outer:r,inner:{transform:"".concat(t," ").concat(n," ").concat(e)},path:{transform:"translate(".concat(i/2*-1," -256)")}};return{tag:"g",attributes:k({},i.outer),children:[{tag:"g",attributes:k({},i.inner),children:[{tag:a.icon.tag,children:a.icon.children,attributes:k(k({},a.icon.attributes),i.path)}]}]}}}},{hooks:function(){return{parseNodeAttributes:function(t,a){var e=a.getAttribute("data-fa-mask"),e=e?Ht(e.split(" ").map(function(t){return t.trim()})):Tt();return e.prefix||(e.prefix=Nt),t.mask=e,t.maskId=a.getAttribute("data-fa-mask-id"),t}}},provides:function(t){t.generateAbstractMask=function(t){var a=t.children,e=t.attributes,n=t.main,i=t.mask,r=t.maskId,o=t.transform,s=n.width,c=n.icon,f=i.width,t=i.icon,o=(i=(n={transform:o,containerWidth:f,iconWidth:s}).transform,o=n.containerWidth,f=n.iconWidth,s={transform:"translate(".concat(o/2," 256)")},n="translate(".concat(32*i.x,", ").concat(32*i.y,") "),o="scale(".concat(i.size/16*(i.flipX?-1:1),", ").concat(i.size/16*(i.flipY?-1:1),") "),i="rotate(".concat(i.rotate," 0 0)"),{outer:s,inner:{transform:"".concat(n," ").concat(o," ").concat(i)},path:{transform:"translate(".concat(f/2*-1," -256)")}}),i={tag:"rect",attributes:k(k({},Ta),{},{fill:"white"})},f=c.children?{children:c.children.map(Da)}:{},f={tag:"g",attributes:k({},o.inner),children:[Da(k({tag:c.tag,attributes:k(k({},c.attributes),o.path)},f))]},o={tag:"g",attributes:k({},o.outer),children:[f]},f="mask-".concat(r||at()),r="clip-".concat(r||at()),o={tag:"mask",attributes:k(k({},Ta),{},{id:f,maskUnits:"userSpaceOnUse",maskContentUnits:"userSpaceOnUse"}),children:[i,o]},o={tag:"defs",children:[{tag:"clipPath",attributes:{id:r},children:"g"===(t=t).tag?t.children:[t]},o]};return a.push(o,{tag:"rect",attributes:k({fill:"currentColor","clip-path":"url(#"
+
+project\fontawesome-free-6.2.0-web\metadata\sponsors.yml:
+  365      - people-carry-box
+  366:     - container-storage
+  367      - blanket
+
+  372      - truck-ramp-box
+  373:     - truck-container
+  374      - person-carry-box
